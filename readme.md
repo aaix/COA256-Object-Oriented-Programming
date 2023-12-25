@@ -1,0 +1,1 @@
+![Class diagram](/Screenshot%202023-12-25%20135600.png)
